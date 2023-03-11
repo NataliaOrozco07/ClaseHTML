@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0px;x 
+}
+#logo {
+    width: 200px;
+    height: 100px;
+}
+.enlance-en-linea{
+    display: inline-block;
+    list-style: none;
+}
